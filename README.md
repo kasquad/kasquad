@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Radmir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">.Net developer from Kazan</h3>
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 <!--
 **kasquad/kasquad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
